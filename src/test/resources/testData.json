@@ -1,0 +1,29 @@
+{
+  "createRequest": {
+    "name": "Parthiban",
+    "address": "TamilNadu",
+    "marks": 80
+  },
+  "updateRequest": {
+    "id": 58,
+    "name": "ArulMani",
+    "address": "Salem",
+    "marks": 90
+  },
+  "createRequest2": [{
+    "name": "Sukumar",
+    "address": "TamilNadu",
+    "marks": "95"
+  },
+{
+  "name": "Vijay",
+  "address": "Salem",
+  "marks": "70"
+},
+    {
+      "name": "Akash",
+      "address": "TamilNadu",
+      "marks": "78"
+    }
+  ]
+}
